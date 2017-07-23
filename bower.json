@@ -1,0 +1,52 @@
+{
+  "name": "angular-persian-datepicker",
+  "version": "1.0.0",
+  "description": "angular compatible persian datepicker",
+  "keywords": [
+    "angular",
+    "persian",
+    "date",
+    "picker",
+    "datepicker",
+    "persianDatepicker",
+    "angularPersianDatepicker"
+  ],
+  "homepage": "https://github.com/Mohsen-Malekan/angular-persian-datepicker",
+  "authors": [
+    {
+      "name": "Mohsen Malekan",
+      "homepage": "https://github.com/Mohsen-Malekan/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mohsen-Malekan/angular-persian-datepicker.git"
+  },
+  "main": [
+    "persian-datepicker/css/bootstrap-datepicker.min.css",
+    "persian-datepicker/js/bootstrap-datepicker.min.js",
+    "persian-datepicker/js/bootstrap-datepicker.fa.min.js",
+    "persian-datepicker.js"
+  ],
+  "dependencies": {
+    "moment": "^2.18.1",
+    "angular": "~1.6.4"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    },
+    {
+      "type": "GPL",
+      "url": "http://www.opensource.org/licenses/gpl-license.php"
+    }
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
